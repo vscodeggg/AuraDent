@@ -10,7 +10,8 @@
 | **Team Name:**    | Mammootty75                               |
 | **Team Members:** | Bhagya · Nehala · Krishna                 |
 | **Institution:**  | LBS Institute of Technology for Women     |
-| **Live Demo:**    | [Demo link goes here]                     |
+
+
 | **Pitch Video:**  | https://www.instagram.com/reel/Ddcf4YeTVe2/?stkn=MWhicmNwajB4c2ViNA==          |
 
 ---
@@ -74,9 +75,10 @@ The system addresses the time and effort involved in manually entering periodont
 
 | Screenshot                                            | Description                          |
 | ----------------------------------------------------- | ------------------------------------ |
-| [Screenshot 1](./assets/screenshots/screenshot-1.png) | [What it shows]                      |
-| [Screenshot 2](./assets/screenshots/screenshot-2.png) | [What it shows]                      |
-| [Pitch Video](./assets/pitch/README.md)               | Link to your >30s social pitch video |
+| <img width="2560" height="1600" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/f212d2d1-4f3b-49e8-8462-4394fae59d81" />    |                                       shows the ai mic which is used for active recording |        
+| <img width="1968" height="1322" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/a737011b-6315-4328-8bfa-c58cb495790d" />|                                               shows the odontogram of the current patient      |
+|
+| [Pitch Video](./assets/pitch/README.md)               | https://www.instagram.com/reel/Ddcf4YeTVe2/?stkn=MWhicmNwajB4c2ViNA==   |
 
 ---
 
