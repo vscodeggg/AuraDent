@@ -1,4 +1,4 @@
-# [Project Name]
+# AuraDent AI
 
 ### **DSOLVE 2026** · DRISHTI · College of Engineering Trivandrum (CET)
 
@@ -6,10 +6,10 @@
 
 |                   |                                           |
 | ----------------- | ----------------------------------------- |
-| **Problem:**      | Problem N — [Problem Title]               |
-| **Team Name:**    | [Your Team Name]                          |
-| **Team Members:** | [Name 1] · [Name 2] · [Name 3] · [Name 4] |
-| **Institution:**  | [College / University]                    |
+| **Problem:**      | Problem 7 — Real-Time Clinical Measurement|
+| **Team Name:**    | Mammootty75                               |
+| **Team Members:** | Bhagya · Nehala · Krishna                 |
+| **Institution:**  | LBS Institute of Technology for Women     |
 | **Live Demo:**    | [Demo link goes here]                     |
 | **Pitch Video:**  | [Social media pitch video link]           |
 
@@ -36,15 +36,19 @@
 
 ## Problem Statement
 
-> _Copy the official problem statement you chose (from `docs/problem-statements.md`)._
->
-> ## Problem N: [Title]
->
-> [Paste the full official problem text here]
+Develop a real-time or near-real-time voice solution that enables dental professionals to capture and record clinical measurements with minimal delay.
+
+The solution should process spoken measurements such as pocket depth, bleeding, recession, and other periodontal findings, converting them into structured data and reflecting them in the application almost instantly. It should explore ways to combine speech recognition, rule-based processing, and AI while handling corrections, repeated measurements, and natural variations in speech.
+
+The goal is to reduce processing latency and manual data entry, creating a fast, seamless, hands-free clinical documentation experience.
+
+> ## Problem 7: Real-Time Clinical Measurement
+
+> Develop a real-time or near-real-time voice solution that enables dental professionals to capture and record clinical measurements with minimal delay.
 
 ### Why this matters
 
-[Short paragraph: the real-world impact, who is affected, etc.]
+Dental professionals often spend significant time manually entering periodontal measurements, which can slow down examinations and interrupt their workflow. A real-time voice-based solution allows dentists to record measurements hands-free as they speak, reducing repetitive data entry, minimizing delays and potential transcription errors, and keeping clinical records updated almost instantly. This can make examinations faster, more seamless, and less disruptive, ultimately improving efficiency for dental professionals and the documentation experience for patients.
 
 ---
 
