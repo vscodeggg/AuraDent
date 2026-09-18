@@ -86,11 +86,14 @@ The system addresses the time and effort involved in manually entering periodont
 
 | Layer           | Technology                         | Why we chose it |
 | --------------- | ---------------------------------- | --------------- |
-| Frontend        | [your frontend framework/platform] | [reason]        |
-| Backend         | [your backend framework/platform]  | [reason]        |
-| Database        | [your database]                    | [reason]        |
-| ML / AI         | [your AI/ML tools/models]          | [reason]        |
-| Infra / Hosting | [where your solution runs]         | [reason]        |
+| Frontend        | [Record dental findings naturally through speech.] | [reason]        |
+| Backend         | [python]  | [reason]        |
+| Database        | [SQLite]                    | [reason]        |
+| ML / AI         | [Whisper Large V3 Turbo
+                    LLM / Dental A ]          |]        |
+| Infra / Hosting | [, we can containerize the backend and deploy it on a cloud platform, move the database to PostgreSQL, use cloud object storage for audio files, and horizontally scale the AI and backend services for multiple concurrent users.”
+
+For the PPT, keep the slide short:]         | [reason]        |
 
 > **Only a sample** — fill in the **"Technology"** column with your own choices.
 > No language, framework, architecture, or project structure is prescribed; use
