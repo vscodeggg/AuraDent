@@ -11,7 +11,7 @@
 | **Team Members:** | Bhagya · Nehala · Krishna                 |
 | **Institution:**  | LBS Institute of Technology for Women     |
 | **Live Demo:**    | [Demo link goes here]                     |
-| **Pitch Video:**  | [Social media pitch video link]           |
+| **Pitch Video:**  | https://www.instagram.com/reel/Ddcf4YeTVe2/?stkn=MWhicmNwajB4c2ViNA==          |
 
 ---
 
