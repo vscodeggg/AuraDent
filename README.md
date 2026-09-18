@@ -11,7 +11,7 @@
 | **Team Members:** | Bhagya · Nehala · Krishna                 |
 | **Institution:**  | LBS Institute of Technology for Women     |
 | **Live Demo:**    | [Demo link goes here]                     |
-| **Pitch Video:**  | [Social media pitch video link]           |
+| **Pitch Video:**  | https://www.instagram.com/reel/Ddcf4YeTVe2/?stkn=MWhicmNwajB4c2ViNA==          |
 
 ---
 
@@ -54,8 +54,10 @@ Dental professionals often spend significant time manually entering periodontal 
 
 ## Our Solution
 
-[Describe what you built, how it solves the problem, and what makes it
-different from existing approaches.]
+**AuraDent AI** is a voice-first dental assistant designed to simplify and speed up clinical documentation. It allows dentists to speak dental measurements and observations naturally, which are converted into text using Groq’s Whisper speech-recognition model. An LLM then interprets the transcript and converts it into structured dental findings such as tooth number, surface, finding type, value, and unit. These findings are stored in a database and can be used to generate patient-friendly dental reports.
+
+The system addresses the time and effort involved in manually entering periodontal measurements during examinations. Unlike basic speech-to-text tools or chatbots, AuraDent AI combines real-time voice capture, dental-specific information extraction, structured charting, database storage, and automated reporting in one workflow. This voice-to-structured-data approach aims to reduce documentation effort while allowing dentists to review and manage the extracted findings.
+
 
 ---
 
