@@ -64,11 +64,10 @@ The system addresses the time and effort involved in manually entering periodont
 
 ## Key Features
 
-- **Feature 1** — [what it does]
-- **Feature 2** — [what it does]
-- **Feature 3** — [what it does]
-- **Feature 4** — [what it does]
-
+- [Voice-Based Dental Charting – Record dental findings naturally through speech]
+- Real-Time AI Transcription – Converts speech into text using Whisper.
+-AI-Powered Finding Extraction – Converts spoken information into structured dental data.
+-Automated Patient Reports – Generates clear, patient-friendly dental visit summaries.
 ---
 
 ## Screenshots & Demo
@@ -89,8 +88,8 @@ The system addresses the time and effort involved in manually entering periodont
 | Frontend        | [Record dental findings naturally through speech.] | [reason]        |
 | Backend         | [python]  | [reason]        |
 | Database        | [SQLite]                    | [reason]        |
-| ML / AI         | [Whisper Large V3 Turbo
-                    LLM / Dental A ]          |]        |
+| ML / AI         | [Whisper Large V3 Turbo]
+                            
 | Infra / Hosting | [, we can containerize the backend and deploy it on a cloud platform, move the database to PostgreSQL, use cloud object storage for audio files, and horizontally scale the AI and backend services for multiple concurrent users.”
 
 For the PPT, keep the slide short:]         | [reason]        |
