@@ -100,13 +100,18 @@ The system addresses the time and effort involved in manually entering periodont
 
 ### Prerequisites
 
-- Your chosen runtime(s) and tools — list them here with versions: `[e.g. runtime X ≥ version]`
-- [Any accounts / API keys required]
+-Python 3.x — backend runtime
+Node.js + npm — frontend/build runtime
+React 19 + TypeScript — frontend
+Vite — frontend development/build tool
+SQLite — local database
+Web Speech API — voice input and text-to-speech
+Groq API — AI/speech processing, if using the backend AI version
 
-### Installation
+The project documentation specifically identifies Vite + React 19 + TypeScript for the frontend and the Web Speech API for speech recognition/synthesis.
 
-> Explain how to run this project
-
+Groq API key — required if the backend's Groq-based AI functionality is being used.
+No separate account is required for SQLite.
 ### Environment Variables
 
 | Variable       | Description                       | Example                           |
