@@ -129,26 +129,27 @@ No separate account is required for SQLite.
 
 _This doubles as your live demo runbook (3–5 min)._
 
-1. **Boot** — start backend + frontend.
-2. **Walkthrough step 1** — [what the judge sees].
-3. **Walkthrough step 2** — [what the judge sees].
-4. **Highlight** — [the "wow" moment / core differentiator].
-5. **Wrap-up** — [summary + where this goes in production].
-
----
+Boot — Start the Python backend and React/Vite frontend.
+Walkthrough step 1 — Open the AuraDent AI dental interface and select/start a patient examination. The judge sees the interactive dental chart and the live application interface.
+Walkthrough step 2 — Speak a clinical finding naturally, for example:
+“Tooth 36, pocket depth 6 millimeters, bleeding positive.”
+The system captures the audio, sends it to Whisper for transcription, and displays the transcript.
+Highlight — The “wow” moment — Show how the spoken sentence is transformed into structured dental findings such as tooth number, finding type, value, and unit, rather than simply displaying raw speech-to-text. The finding can then be stored and used for report generation.
+Wrap-up — Explain that AuraDent AI connects voice → AI transcription → dental information extraction → structured charting → patient report. For production, the system can be extended with PostgreSQL, authentication, stronger validation, audit logs, and scalable cloud infrastructure.
 
 ## Limitations & Future Scope
 
 ### Known Limitations
 
-- [Limitation 1]
-- [Limitation 2]
 
+- AI transcription/parsing can make mistakes, particularly with numbers, tooth identifiers, accents, background noise, or ambiguous speech.
+-The current prototype is not yet a hospital-scale deployment; it uses a lightweight architecture and requires further work for multi-user scalability, advanced security, and production healthcare integration.
 ### Future Scope
 
-- [Planned improvement 1]
-- [Planned improvement 2]
-
+- Hospital-scale deployment — Migrate from SQLite to PostgreSQL and introduce authentication, role-based access, scalable AI workers, and multi-user support.
+-Improved clinical reliability — Add confidence scoring, dental-specific validation, ambiguity detection, stronger human    verification, and formal accuracy testing.
+-Healthcare integration — Integrate with existing hospital/EHR or dental practice-management systems.
+-Enhanced security — Add encryption, detailed audit trails, secure cloud storage, and healthcare-data compliance mechanisms.
 ---
 
 ## Team
