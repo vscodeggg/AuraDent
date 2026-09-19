@@ -156,9 +156,9 @@ Wrap-up — Explain that AuraDent AI connects voice → AI transcription → den
 
 | Name     | Role(s)                         | GitHub    | Email   |
 | -------- | ------------------------------- | --------- | ------- |
-| [Name 1] | [e.g. Full-stack / ML / Design] | [@handle] | [email] |
-| [Name 2] |                                 |           |         |
-
+| [Nehala] | ai voice                        | @nehala11 | [nehalafirosh@gmail.com] |
+| [krishna] | backend developer              | @vscodeggg | krishnaaparnanair@gmail.com   |
+| [bhagya]  | frontend developer             | @bhaggpie  | bhagyashiju@gmail.com
 ---
 
 ## Submission Checklist
